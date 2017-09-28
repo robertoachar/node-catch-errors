@@ -37,7 +37,7 @@ wrappedLoad('robertoachar');
 * Cloning the repo
 
 ```bash
-$ git clone https://github.com/robertoachar/catch-errors.git
+$ git clone https://github.com/robertoachar/node-catch-errors.git
 ```
 
 * Installing dependencies
@@ -59,10 +59,10 @@ Linting code              | `npm run lint`
 
 # License
 
-[MIT](https://github.com/robertoachar/catch-errors/blob/master/LICENSE)
+[MIT](https://github.com/robertoachar/node-catch-errors/blob/master/LICENSE)
 
 [npm-badge]: https://img.shields.io/npm/v/catch-errors.svg
 [npm-url]: https://www.npmjs.com/package/catch-errors
 
-[license-badge]: https://img.shields.io/github/license/robertoachar/catch-errors.svg
+[license-badge]: https://img.shields.io/github/license/robertoachar/node-catch-errors.svg
 [license-url]: https://opensource.org/licenses/MIT
