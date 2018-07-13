@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A high-order function to catch errors from promises.",
   "author": "Roberto Achar <robertoachar@gmail.com>",
-  "homepage": "https://github.com/robertoachar/catch-errors#readme",
+  "homepage": "https://github.com/robertoachar/node-catch-errors#readme",
   "keywords": [
     "node",
     "promises",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/robertoachar/catch-errors.git"
+    "url": "https://github.com/robertoachar/node-catch-errors.git"
   },
   "bugs": {
-    "url": "https://github.com/robertoachar/catch-errors/issues"
+    "url": "https://github.com/robertoachar/node-catch-errors/issues"
   },
   "dependencies": {},
   "devDependencies": {
