@@ -1,5 +1,15 @@
-# Changelog
+# CHANGELOG
 
-## 0.1.0
+### v0.1.1
 
-* Initial release
+- **build**: remove package-lock
+- **build**: update dependencies
+- **docs**: update README
+- **fix**: update repo
+- **refactor**: format using prettier
+- **refactor**: remove unused code
+- **style**: add prettier
+
+### v0.1.0
+
+- Initial release
